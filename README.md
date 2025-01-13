@@ -7,6 +7,13 @@ ThriftConnect is a MERN stack-based platform where users can buy and sell second
 
 ## Features
 
+### Objectives
+- Develop a responsive and intuitive web application for a second-hand marketplace.
+-Implement secure user authentication and profile management.
+-Enable users to create, browse, and search product listings.
+-Build a messaging system for buyers and sellers to communicate.
+-Deploy the project to a cloud platform for public access
+
 ### User Features
 - **User Authentication**: Sign up, log in, and manage your profile securely with JWT authentication.
 - **Post Items for Sale**: Upload item details, including images, price, and description.
