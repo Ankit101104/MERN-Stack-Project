@@ -1,6 +1,6 @@
 
 # ThriftConnect - A Second-Hand Marketplace
-![ThriftConnect Priview](UI.png)
+![ThriftConnect Priview](https://github.com/Ankit101104/MERN-Stack-Project/blob/main/ThriftConnect/UI.png)
 
 - ThriftConnect is a MERN stack-based platform where users can buy and sell second-hand items across various categories. The application provides an intuitive interface, powerful search functionality, and features like messaging, user reviews, and location-based item discovery.
 - **This is a team project consisting of 4 members, showcasing collaborative efforts in developing a comprehensive second-hand marketplace application.**
